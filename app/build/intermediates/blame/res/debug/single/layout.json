@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AllAndroid\\DemoKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "F:\\AllAndroid\\DemoKotlin\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "F:\\AllAndroid\\DemoKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "F:\\AllAndroid\\DemoKotlin\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "F:\\AllAndroid\\DemoKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "F:\\AllAndroid\\DemoKotlin\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    }
+]
